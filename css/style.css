@@ -1,0 +1,84 @@
+.mydiv {
+    min-width:   320px;
+    min-height:  480px;
+    max-width:   320px;
+    max-height:  480px;
+    background-color: #eef4e8;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+textarea {
+    resize:vertical;
+}
+
+.red_button{
+    font-size: large;
+    width:250px;
+    height: 35px;
+    color:white;
+    background-color:red;
+    border:2px solid #660900;
+}
+
+.green_button{
+    font-size: large;
+    width:250px;
+    height: 35px;
+    color:white;
+    background-color:green;
+    border:2px solid #336600;
+}
+
+.input1{
+    width:250px;
+    height: 20px;
+    margin: 2mm;
+}
+.inputnum{
+    text-align: right;
+}
+
+.label1{
+    font-size: 15pt ;
+}
+
+/*PIER*/
+
+#bottone {
+    width: 100%;
+    background-color: burlywood;
+    padding: 5%;
+    font-size: 200%;
+}
+
+
+
+#bottone_conferma{
+    width: 100%;
+    background-color: seagreen;
+    padding: 5%;
+    margin: 2% 0%;
+    font-size: 200%;
+}
+
+.non_prenotato {
+    width: 100%;
+    background-color: burlywood;
+    padding: 5%;
+    font-size: 200%;
+}
+.prenotato{
+    width: 100%;
+    background-color: forestgreen;
+    padding: 5%;
+    font-size: 200%;
+}
+
+img{
+    height: 40%;
+    width: 45%;
+    padding: 10px 0px ;
+}
